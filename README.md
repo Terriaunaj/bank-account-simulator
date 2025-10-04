@@ -39,4 +39,5 @@ Your account was created! Your account number is 4827
    git clone git@github.com:USERNAME/bank-account-simulator.git
    cd bank-account-simulator
 2. Run the python file:
+   ```bash
     python3 bankAccount.py
